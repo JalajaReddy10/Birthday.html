@@ -1,5 +1,5 @@
 # Birthday.html
-# 🎉 Birthday Invitation 🎂
+# Birthday Invitation 
 
 This is a simple **Birthday Invitation** webpage built using HTML.
 
@@ -9,6 +9,9 @@ This is a simple **Birthday Invitation** webpage built using HTML.
 
 ## Preview
 ![Birthday Cake](https://raw.githubusercontent.com/appbrewery/webdev/main/birthday-cake3.4.jpeg)
+
+**##Output**
+http://127.0.0.1:3000/3.4 Birthday Invite Project/index.html
 
 ## What to Bring:
 - Chocolates  
